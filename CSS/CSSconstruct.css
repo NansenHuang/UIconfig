@@ -1,0 +1,26 @@
+.board {
+    display: flex;
+     flex-direction: column;
+    height:180px;
+    width:350px;
+    border:1px solid black;
+    padding:20px;
+}
+
+.margin {
+    margin-bottom:5px;
+}
+
+.marginunderline{
+    margin-bottom:5px;
+    text-decoration: underline;
+}
+
+.flexA{
+    display: flex;
+    justify-content: space-between;
+}
+
+.fontcolor{
+    color: #108ee9;
+}

@@ -1,0 +1,264 @@
+/* nav board */
+
+.nav { text-align:left;
+    font-weight:bold;
+    font-size:12px;
+}
+
+.board { height:150px;
+         width:350px;
+         border:1px solid black;
+         padding:20px;
+}
+
+.boardworkposition { height:190px;
+    width:350px;
+    border:1px solid black;
+    padding:20px;
+}
+
+.boardpileposition {
+    height:180px;
+    width:350px;
+    border:0px solid black;
+    padding:20px;
+}
+
+.boardcompposition {
+    height:270px;
+    width:350px;
+    border:0px solid black;
+    padding:20px;
+
+}
+
+.boardsunalayise {
+    height:450px;
+    width:350px;
+    border:1px solid black;
+    padding:20px;
+}
+
+/* seletion flex position */
+.selectposition {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* button */
+.button {width:120px;
+         margin-right:10px;
+         }
+
+/* search */
+.searchposition {
+         width:240px;
+         display: flex;
+         justify-content:center;
+         margin-left:35px;
+}
+
+.search { width:240px;
+                       }
+
+/* formboard */
+
+.formboard { height:250px;
+             width:350px;
+             border:1px solid black;
+             padding:20px
+}
+
+/* table */
+.table {
+          height:100px;}
+
+.tabler { height:60px;
+    width:300px;}
+
+/* statement */
+
+.statement {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.buttoncompposition {
+    width:120px;
+    margin-right:10px;
+   }
+
+
+
+/* spacecal */
+
+.spacecalposition { height:170px;
+    width:200px;
+    border:1px solid black;
+    padding:20px;
+}
+
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+
+.column {
+    flex-basis: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.item {
+    display: flex;
+
+}
+
+.divpic {
+    margin-left:15px;
+}
+
+/* sunshinealylize */
+
+.activeperform {
+    font-size:16px;
+    color:dodgerblue;
+
+}
+
+.activeperform1 {
+    font-size:12px;
+}
+
+/* show shadow */
+
+.showshadow {
+    font-weight:bold;
+}
+
+/* submerge */
+.boardsubmerge {
+    height:370px;
+    width:350px;
+    border:1px solid black;
+    padding:20px;
+}
+
+/* buttonsubmerge */
+
+.wordsubmerge
+{  display:flex;
+   justify-content: flex-end;
+   margin-right:45px;}
+
+.buttonsubmerge
+{
+    display:flex;
+    justify-content:center ;
+    margin-right:20px;
+}
+
+/* viewanalyse */
+
+.buttonview {
+    display:flex;
+    justify-content:center ;
+    margin-right:20px;
+}
+
+
+.boardview { height:220px;
+     width:350px;
+     border:1px solid black;
+     padding:20px;
+ }
+
+.boarddrivesimu { height:370px;
+    width:350px;
+    border:1px solid black;
+    padding:20px;
+}
+
+/* simudrive */
+
+.buttonsimudrive {
+    display:flex;
+    justify-content: center;
+    }
+
+.inputposition
+{
+   display:flex;
+   justify-content: center;
+}
+
+.word {
+    display:flex;
+    justify-content:flex-start;
+}
+
+.buttona {
+    display:flex;
+    justify-content:center;
+
+}
+
+.boardsitemanage {
+    height:180px;
+    width:350px;
+    border:1px solid black;
+    padding:20px;
+}
+
+.buttonsitemanage {
+    display:flex;
+    justify-content:center;
+    margin-right:20px;
+}
+
+.boardaddmanage {
+    height:330px;
+    width:350px;
+    border:1px solid black;
+    padding:20px;
+}
+
+.boardviewsite {
+    height:180px;
+    width:350px;
+    border:1px solid black;
+    padding:20px;
+}
+
+.boardaddsite {
+    height:260px;
+    width:350px;
+    border:1px solid black;
+    padding:20px;
+}
+
+.tab {  margin-top:20px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;}
+
+.boardsystem {
+    height:120px;
+    width:350px;
+    border:0px solid black;
+    padding:20px;
+    background-color: white;
+   }
+
+.boardmargin {
+    height:125px;
+    width:355px;
+    background-color: brown;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}

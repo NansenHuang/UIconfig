@@ -1,0 +1,17 @@
+/*! Created by N.Huang */
+.container {
+  width: 100%;
+  position: relative;
+  display: inline-block;
+}
+.container .recharts-responsive-container {
+  width: calc(100% + 56px) !important;
+  margin-left: -50px;
+}
+.content {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
